@@ -1,7 +1,7 @@
 <h1 align="center"> Toskanai </h1>
 
 <p align="center">
-  Future computer engineer with a passion for Linux, system-level programming, and clean interface design.<br>
+  Future computer engineer(optional with a passion for Linux, system-level programming, and clean interface design.<br>
   I build full stack apps, customize every layer of my setup and refine my workflow from kernel to UI.
 </p>
  
